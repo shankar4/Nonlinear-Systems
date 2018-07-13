@@ -1,4 +1,4 @@
-I provide here relevant summaries from certain books and papers. 
+I provide here relevant summaries from certain books and papers. Summaries are found [here](https://github.com/iShankar/Atherosclerosis/blob/master/biophysics/BialekBookSummary.md).
 
 Bialek's book: A 2011 draft is available [here](https://www.princeton.edu/~wbialek/PHY562/WB_biophysics110918.pdf). He uses photon counting in vision to showcase the opportunities for quantiatvie, physics-style experiments to understand biological phenomena. He develops three general physical principles to study living systems: (1) Extraction of low level signal from noise, and consequent energy minimization; (2) Irrevelance of finely tuned parameters in understanding their extraordinary performance ; and (3) Critical role of the representation and flow of information. 
 
@@ -19,7 +19,7 @@ Chapter on "No Fine Tuning" (Chapter 5 in the published book): A system can be d
 
 Locating life in this spectrum between precisely controlled (rather than finely tuned) dynamics and generic or robust behavior is important. We need to understand from experiments *which features are robust against such variations, and we need evidence that organisms actually face these variations in their natural environment*. On the theoretical side, we need more anchor points, such as the *random heteropolymer and the random neural network*.  We also need a statistical mechanics of systems with random parameters that allows for parameters with nontrivial distributions. These are substantial challenges. 
 
-**Chapter
+Chapter on "Efficient Representation"(Chapter 6 in the book): 
 
 References:
 
