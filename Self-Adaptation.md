@@ -10,7 +10,7 @@ Application of the First law of thermodynamics to living systems: A single muscl
 
 BMR and Oxyben consumption rates for a 65 Kg average male: 
 
-|  organ        | Power consumed at Rest     |     Oxygen Consumption in    |     % BMR   |
+|  Organ        | Power consumed at Rest     |     Oxygen Consumption in    |     % BMR   |
 |-------------  |:--------------------------:|:----------------------------:|:-----------:|
 |               |  (kcal/min)  /    (W)      |       (ml/min)               |             |
 |Liver & Spleen |    0.33      /     23      |          67                  |      27     |
